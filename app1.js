@@ -1,1 +1,1 @@
-1 console.log('Hello2')
+window.console.error("You made a mistake");
